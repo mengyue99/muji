@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{67E80EC2-BDE4-4886-AEE7-0B5B64F4A936}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="muji/Program.cs">
     <Files>
-      <File FileName="muji/Program.cs" Line="22" Column="2" />
+      <File FileName="muji/Program.cs" Line="20" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

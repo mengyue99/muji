@@ -1,0 +1,4 @@
+/Users/mengyueming/Desktop/muji/muji/bin/Debug/muji.exe
+/Users/mengyueming/Desktop/muji/muji/bin/Debug/muji.pdb
+/Users/mengyueming/Desktop/muji/muji/obj/Debug/muji.exe
+/Users/mengyueming/Desktop/muji/muji/obj/Debug/muji.pdb
